@@ -1,11 +1,10 @@
-// Replace these keys with your actual Firebase config
 const firebaseConfig = {
-  apiKey: "YOUR-API-KEY",
-  authDomain: "YOUR-AUTH-DOMAIN",
-  projectId: "YOUR-PROJECT-ID",
-  storageBucket: "YOUR-STORAGE",
-  messagingSenderId: "YOUR-SENDER-ID",
-  appId: "YOUR-APP-ID"
+  apiKey: "AIzaSyEXAMPLEKEY",
+  authDomain: "your-app-id.firebaseapp.com",
+  projectId: "your-app-id",
+  storageBucket: "your-app-id.appspot.com",
+  messagingSenderId: "1234567890",
+  appId: "1:1234567890:web:abcdefg123456"
 };
 
 firebase.initializeApp(firebaseConfig);
